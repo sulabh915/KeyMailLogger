@@ -1,7 +1,7 @@
 
 # KeyMailLogger
 
-This project provides a Python-based keylogger generator tool that creates a stealthy executable for Windows. It captures keystrokes on the victim's system and periodically sends the logs to a specified email address. It is recommended all the process should be done in windows for perfect output. keylogger generator in linux system not give desired result. This python script is uses windows API , That's generate in windows system rather in linux system .
+This project provides a Python-based keylogger generator tool that creates a stealthy executable for Windows. It captures keystrokes on the victim's system and periodically sends the logs to a specified email address. It is recommended all the process should be done in windows for perfect output. keylogger generator in linux system not give desired result. This python script is uses windows API , That's why generate in windows system rather than in linux system .
 
 ## Features :
 
