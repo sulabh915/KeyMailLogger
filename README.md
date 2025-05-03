@@ -81,6 +81,9 @@ Step-By-Step
 
 - Cleans up temp files.
 
+5 . exe file is generated you can embed in pdf and image. Run this file in victum machine , checkout your specified receiving email every 1 minute.
+
+
 
 ## Disclaimer
 
